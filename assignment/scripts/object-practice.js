@@ -32,6 +32,7 @@ console.log(fullName);
   - Console.log your first favorite food
   - Console.log your last favorite food 
 */
+
 console.log(me.favThreeFoods.shift());
 console.log(me.favThreeFoods.pop());
 
